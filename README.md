@@ -8,7 +8,7 @@ The primary goal is to develop a predictive model that can accurately classify b
 
 ## Contents
 
-- `Feature Selection and Data Classification.ipynb`: The main Jupyter notebook containing the preprocessing steps, model training, hyperparameter tuning, and analysis.
+- `main.ipynb`: The main Jupyter notebook containing the preprocessing steps, model training, hyperparameter tuning, and analysis.
 
 ## Key Features
 
